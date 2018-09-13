@@ -1,5 +1,5 @@
 _repo: The-Pilot-and-the-Bushman_51297
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Stone, David
@@ -8,12 +8,17 @@ contributor:
     - Stone
     gutenberg_agent_id: '34066'
     url: http://www.gutenberg.org/2009/agents/34066
+covers:
+- cover_type: archival
+  image_path: 51297-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacobs, Sylvia
     gutenberg_agent_id: '46363'
     url: http://www.gutenberg.org/2009/agents/46363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51297#The-Pilot-and-the-Bushman
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-01'
 gutenberg_type: Text
