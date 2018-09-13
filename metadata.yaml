@@ -1,0 +1,34 @@
+_repo: The-Pilot-and-the-Bushman_51297
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stone, David
+    aliases:
+    - Stone, D.
+    - Stone
+    gutenberg_agent_id: '34066'
+    url: http://www.gutenberg.org/2009/agents/34066
+creator:
+  author:
+    agent_name: Jacobs, Sylvia
+    gutenberg_agent_id: '46363'
+    url: http://www.gutenberg.org/2009/agents/46363
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Advertising -- Fiction'
+- !lcsh 'Business -- Fiction'
+- GITenberg
+title: The Pilot and the Bushman
+url: http://www.gutenberg.org/ebooks/51297
